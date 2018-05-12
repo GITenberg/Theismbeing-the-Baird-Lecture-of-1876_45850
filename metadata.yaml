@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43491'
     url: http://www.gutenberg.org/2009/agents/43491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45850#Theismbeing-the-Baird-Lecture-of-1876
 gutenberg_issued: '2014-05-31'
 gutenberg_type: Text
 identifiers:
